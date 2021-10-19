@@ -61,7 +61,6 @@
 - HTML for Webscraping
 - Webscraping
 - Working with different file formats (csv, xml, json, xlsx)
-
 - Lab: Instruction for Speech to Text and Language Translator API Keys
 - Lab: Introduction to API
 - Lab: Watson Speech to Text and Language Translator API
