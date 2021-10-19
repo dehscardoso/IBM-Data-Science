@@ -1,7 +1,5 @@
 # IBM Data Science Professional Certificate
 
-## About this Professional Certificate
-
 Data science is one of the hottest professions of the decade, and the demand for data scientists who can analyze data and communicate results to inform data driven decisions has never been greater. This Professional Certificate from IBM will help anyone interested in pursuing a career in data science or machine learning develop career-relevant skills and experience.
 
 It’s a myth that to become a data scientist you need a Ph.D. Anyone with a passion for learning can take this Professional Certificate – no prior knowledge of computer science or programming languages required – and develop the skills, tools, and portfolio to have a competitive edge in the job market as an entry level data scientist.
@@ -27,18 +25,18 @@ Read more below:
 
 ## Specialization Overview
 
-| No      | Course                                                                     		     |	
-|:-------:|------------------------------------------------------------------------------------------|
-| 01.     | [What is Data Science?](01. What is Data Science)                          		     |
-| 02.     | [Tools for Data Science](02. Tools for Data Science)                       		     |
-| 03.     | [Data Science Methodology](03. Data Science Methodology)                                 |
-| 04.	  | [Python for Data Science, AI, Development](04. Python for Data Science, AI, Development) |
-| 05.     | [Python Project for Data Science](05. Python Project for Data Science)      	     |
-| 06.     | [Databases and SQL for Data Science](06. Databases and SQL for Data Science)             |
-| 07.     | [Data Analysis with Python](07. Data Analysis with Python)                               |
-| 08.     | [Data Visualization with Python](08. Data Visualization with Python)                     |
-| 09.     | [Machine Learning with Python](09. Machine Learning with Python)                         |
-| 10.     | [Applied Data Science Capstone](10. Applied Data Science Capstone)                       |
+| No      | Course                                                                             |	
+|:-------:|------------------------------------------------------------------------------------|
+| 01.     | What is Data Science?                        		                                   |
+| 02.     | Tools for Data Science                      		                                   |
+| 03.     | [Data Science Methodology](Data_Science_Methodology)                               |
+| 04.	    | [Python for Data Science, AI, Development](Python_for_Data_Science_AI_Development) |
+| 05.     | [Python Project for Data Science](Python_Project_for_Data_Science)      	         |
+| 06.     | [Databases and SQL for Data Science](Databases_and_SQL_for_Data_Science)           |
+| 07.     | [Data Analysis with Python](Data_Analysis_with_Python)                             |
+| 08.     | [Data Visualization with Python](Data_Visualization_with_Python)                   |
+| 09.     | [Machine Learning with Python](Machine_Learning_with_Python)                       |
+| 10.     | [Applied Data Science Capstone](Applied_Data_Science_Capstone)                     |
 
 
 
