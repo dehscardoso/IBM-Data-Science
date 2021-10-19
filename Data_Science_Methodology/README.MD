@@ -14,8 +14,8 @@
 
 ### Module 2: From Understanding to Preparation and from Modeling to Evaluation
 - Data Understanding
-- Data Preparation
-- Modeling
+- Data Preparation 
+- Modeling 
 - Evaluation
 - Lab: From Understanding to Preparation
 - Lab: From Modeling to Evaluation
@@ -25,6 +25,7 @@
 ### Module 3: From Deployment to Feedback
 - Deployment
 - Feedback
+- Course Summary
 - Quiz: From Deployment to Feedback
 - Peer-review Assignment
 
