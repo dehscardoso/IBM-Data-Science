@@ -1,23 +1,32 @@
-## Data Science Methodology
+# Data Science Methodology
 
-The Data Science Methodology aims do answer the following 10 questions in this prescribed sequence. 
+## Syllabus
 
-`From problem to approach:`
-01. What is the problem that you area trying to solve?
-02. How can you use data to answer the question?
+### Module 1: From Problem to Approach and from Requirements to Collection
+- Business Understanding
+- Analytic Approach
+- Data Requirements
+- Data Collection
+- Lab: From Problem to Approach
+- Lab: From Requirement to Collection
+- Quiz: From Problem to Approach
+- Quiz: From Requirement to Collection
 
-`Working with the data:`
+### Module 2: From Understanding to Preparation and from Modeling to Evaluation
+- Data Understanding
+- Data Preparation
+- Modeling
+- Evaluation
+- Lab: From Understanding to Preparation
+- Lab: From Modeling to Evaluation
+- Quiz: From Understanding to Preparation
+- Quiz: From Modeling to Evaluation
 
-03. What data do you need to answer the question?
-04. Where is the data coming from (identify all sources) and how will get it?
-05. Is the data that you collected representative of the problem to be solved?
-06. What additional work is required to manipulate and work the data?
+### Module 3: From Deployment to Feedback
+- Deployment
+- Feedback
+- Quiz: From Deployment to Feedback
+- Peer-review Assignment
 
-`Deriving the answer:`
-
-07. In what way can the data be visualized to get to the answer that is required?
-08. Does the model used really answer the initial question or does it need to be adjusted?
-09. Can you put the model into practice?
-10. Can you get constructive feedback into answering the question?
 
 
