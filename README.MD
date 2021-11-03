@@ -22,6 +22,8 @@ This Professional Certificate has a strong emphasis on applied learning. Except 
 
 **Course Link:** [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science)
 
+
+
 ## Specialization Overview
 
 | No      | Course                                                                             |	
