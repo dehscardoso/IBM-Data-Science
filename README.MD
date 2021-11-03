@@ -10,6 +10,8 @@ Upon successfully completing these courses, you will have built a portfolio of d
 
 In addition to earning a Professional Certificate from Coursera, you'll also receive a **digital badge from IBM** recognizing your proficiency in data science.
 
+<br>
+
 ## Applied Learning Project
 This Professional Certificate has a strong emphasis on applied learning. Except for the first course, all other courses include a series of hands-on labs in the IBM Cloud that will give you **practical skills with applicability to real jobs**, including:
 
@@ -22,7 +24,7 @@ This Professional Certificate has a strong emphasis on applied learning. Except 
 
 **Course Link:** [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science)
 
-
+<br>
 
 ## Specialization Overview
 
