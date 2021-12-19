@@ -1,4 +1,3 @@
---#SET TERMINATOR @
 CREATE PROCEDURE TRANSACTION_ROSE                           -- Name of this stored procedure routine
 
 LANGUAGE SQL                                                -- Language used in this routine 
