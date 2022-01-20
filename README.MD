@@ -30,11 +30,11 @@ This Professional Certificate has a strong emphasis on applied learning. Except 
 
 | No      | Course                                                                             |	
 |:-------:|------------------------------------------------------------------------------------|
-| 01.     | What is Data Science?                        		                                   |
-| 02.     | Tools for Data Science                      		                                   |
+| 01.     | What is Data Science?                        		                       |
+| 02.     | Tools for Data Science                      		                       |
 | 03.     | [Data Science Methodology](Data_Science_Methodology)                               |
-| 04.	    | [Python for Data Science, AI, Development](Python_for_Data_Science_AI_Development) |
-| 05.     | [Python Project for Data Science](Python_Project_for_Data_Science)      	         |
+| 04.	  | [Python for Data Science, AI, Development](Python_for_Data_Science_AI_Development) |
+| 05.     | [Python Project for Data Science](Python_Project_for_Data_Science)      	       |
 | 06.     | [Databases and SQL for Data Science](Databases_and_SQL_for_Data_Science)           |
 | 07.     | [Data Analysis with Python](Data_Analysis_with_Python)                             |
 | 08.     | [Data Visualization with Python](Data_Visualization_with_Python)                   |
